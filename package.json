@@ -1,0 +1,12 @@
+{
+    "name": "leijona_catering_bot",
+    "version": "1.0.0",
+    "description": "Bot for fetching menus of Leijona Catering restaurants",
+    "main": "app.js",
+    "author": "Saku Rautio",
+    "dependencies": {
+        "discord.io": "github:woor/discord.io#gateway_v6",
+        "request": "^2.88.0",
+        "winston": "^3.1.0"
+    }
+}
